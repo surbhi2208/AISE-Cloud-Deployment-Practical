@@ -5,7 +5,7 @@ import streamlit as st
 st.set_page_config(page_title="AISE Deployment Demo")
 
 # Application heading
-st.title("AI-Enabled Software Engineering")
+st.title("My First Cloud Deployment")
 
 st.header("Cloud Deployment Demonstration")
 
